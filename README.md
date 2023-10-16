@@ -19,14 +19,12 @@ This program is inspired by problem P6.6 in the book "Big Java" by Cay S. Horstm
 - `Computer.java`: Contains the implementation of the computer player's logic.
 - `Game.java`: Implements the Game of Nim and manages player turns.
 - `Human.java`: Represents the human player's actions and choices.
-- `ZipTest.java`: A Java class for running and testing the Game of Nim program.
-- `Zipcode.java`: Provides functionality for converting between ZIP codes and barcodes.
 
 ## How to Run
 
 To run the Game of Nim program:
 1. Compile the Java source files using a Java compiler (e.g., `javac`).
-2. Execute the `ZipTest` class, which acts as the entry point for the program.
+2. Execute the `Game` class, which acts as the entry point for the program.
 3. Follow the on-screen prompts to play the Game of Nim against the computer.
 
 Enjoy the game and have fun testing your strategic skills against the computer!
